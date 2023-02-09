@@ -1,8 +1,6 @@
 team
-<<<<<<< HEAD
 RomeoTodorov
-=======
 Kristina Kirilova
 Monika Ivanova
 
->>>>>>> 803830cdee3323dfcbed7c4adf60d88600c0380b
+
