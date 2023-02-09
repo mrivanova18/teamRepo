@@ -1,10 +1,5 @@
 team
-<<<<<<< HEAD
 Monika Ivanova 17
-=======
-RomeoTodorov
+Romeo Todorov
 Kristina Kirilova
 Monika Ivanova
-
-
->>>>>>> 16b396ba43653c7948fe9013b7665942fa91a437
