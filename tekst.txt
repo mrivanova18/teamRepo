@@ -1,6 +1,13 @@
 team
+<<<<<<< HEAD
 Romeo Todorov 17
 Kristina Kirilova 17
 Monika Ivanova 17
 
 
+=======
+Monika Ivanova 17
+Romeo Todorov
+Kristina Kirilova
+Monika Ivanova
+>>>>>>> a9f3a85ba7fbb8777d891623121229c2dc1b08a3
