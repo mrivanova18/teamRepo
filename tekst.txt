@@ -2,9 +2,5 @@ team
 Romeo Todorov 17
 Kristina Kirilova 17
 Monika Ivanova 17
-<<<<<<< HEAD
-=======
-Romeo Todorov
-Kristina Kirilova
 
->>>>>>> b365221a3e478499e6d6a860bf2688d9e7c60612
+
