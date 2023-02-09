@@ -1,2 +1,6 @@
 team
+<<<<<<< HEAD
 Kristina Kirilova
+=======
+Monika Ivanova
+>>>>>>> 2a96808634f0443cbe07e6fd3168bdc0065c37c5
